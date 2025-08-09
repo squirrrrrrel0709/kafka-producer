@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fa5e237-a6ba-4593-a951-a7152280bcb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose/kafka03/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose/kafka03/prometheus.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
